@@ -6,5 +6,6 @@ public class SimpleClass {
         System.out.println("First Line");
         System.out.println("Second Line");
         System.out.println(new Date());
+        System.out.println("Added");
     }
 }
