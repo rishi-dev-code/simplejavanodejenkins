@@ -7,5 +7,6 @@ public class SimpleClass {
         System.out.println("Second Line");
         System.out.println(new Date());
         System.out.println("Added");
+        System.out.println("Added for SCM test ");
     }
 }
